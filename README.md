@@ -1,7 +1,7 @@
 <h1>PROJECT OVERVIEW </h1>
 An device to help both private and commercial property owners to effectively manage energy in the buildings.  
 <ul>
-  <li><b>Target Outcomes:</b> app with built-in machine learning model.  </li>li
+  <li><b>Target Outcomes:</b> app with built-in machine learning model.  </li>
 </ul>
 
 <h1>Progress thus far ...</h1>
